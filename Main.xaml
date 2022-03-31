@@ -55,7 +55,7 @@
   </TextExpression.ReferencesForImplementation>
   <Sequence sap:VirtualizedContainerService.HintSize="376,356" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <Sequence.Variables>
-      <Variable x:TypeArguments="x:String" Default="younas.yaqoub@fluke.com" Name="username" />
+      <Variable x:TypeArguments="x:String" Name="username" />
       <Variable x:TypeArguments="x:String" Name="password" />
     </Sequence.Variables>
     <sap:WorkflowViewStateService.ViewState>
